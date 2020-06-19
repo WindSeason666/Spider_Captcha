@@ -1,7 +1,7 @@
 Cython
 absl-py==0.9.0
 albumentations==0.4.5
-bleach==1.5.0
+bleach==3.1.4
 cachetools==4.1.0
 certifi==2020.4.5.1
 chardet==3.0.4
