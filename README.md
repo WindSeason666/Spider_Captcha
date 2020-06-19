@@ -24,7 +24,7 @@ To learn about basic! learn it with us! QQ群:1126310403
 
 #### About share:
 验证码的识别的关键影响因素跟数据集的质量和数量影响很大！所以我也希望大家能共同一起分享数据集！
-#####如果觉得我分享的质量觉着满意，麻烦给个star! ^_^ thank you!也是每个创作者继续分享的动力！fighting!
+##### 如果觉得我分享的质量觉着满意，麻烦给个star! ^_^ thank you!也是每个创作者继续分享的动力！fighting!
   
 #### About install:
 ##### 很多github上都有讲Linux系统的，本文以windows为例!
