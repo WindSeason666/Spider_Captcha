@@ -2,7 +2,7 @@
 #### About Captcha:
 	网易易盾、极验等主流验证码破解。
 	已更新极验文字点选、极验滑动、极验语序、极验九宫格、易盾文字、易盾图标、易盾滑动、易盾乱序还原拼图、税务红黄蓝验证码、梦幻西游8位汉字识别、多种字符验证码。
-#### 其验证码类型图片已经放到captcha目录下！
+#### 其验证码类型图片已经放到captcha目录下!
 #### Warning！
 请保证本项目仅用于研究学习！感谢配合支持！
 
@@ -11,11 +11,11 @@
 #### About javascript:
 To learn about basic! learn it with us! QQ群:1126310403
 #### About updated:
-#### 关于解决类似极验文字点选验证码的两套框架！
+#### 关于解决类似极验文字点选验证码的两套框架!
 ##### 一、目标检测框架
 ##### 二、文字识别框架
 
-#### 易盾文字点选验证码模型训练思路
+#### 易盾文字点选验证码模型训练思路!
 ##### 一、label_image 标注文字位置约400左右
 ##### 二、pytorch + yolov3 训练位置预测模型
 ##### 三、根据预测位置裁剪汉字图片
@@ -27,7 +27,7 @@ To learn about basic! learn it with us! QQ群:1126310403
 #####如果觉得我分享的质量觉着满意，麻烦给个star! ^_^ thank you!也是每个创作者继续分享的动力！fighting!
   
 #### About install:
-##### 很多github上都有讲Linux系统的，本文以windows为例！
+##### 很多github上都有讲Linux系统的，本文以windows为例!
   - [x] pip install torch==1.4.0+cpu torchvision==0.5.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
   - [x] pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
   - [x] pip install git+https://github.com/philferriere/cocoapi.git#subdirectory=PythonAPI
